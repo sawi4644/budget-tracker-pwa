@@ -28,9 +28,8 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 ## Resources
 
-* In order to cache dynamic content, i.e. users' inputs for withdrawals or deposits, incorporate `indexedDB` from the previous module.
+* In order to cache dynamic content, i.e. users' inputs for withdrawals or deposits, incorporated `indexedDB`
 
-* Use [Google](https://www.google.com) or another search engine to research this topic.
 
 ## Collaboration
 
