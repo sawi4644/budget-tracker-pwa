@@ -1,6 +1,4 @@
-# budget-tracker-pwa
-
-# Unit 18 PWA Homework: Online/Offline Budget Trackers
+# PWA: Online/Offline Budget Trackers
 
 Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
 
@@ -24,6 +22,9 @@ SO THAT my account balance is accurate when I am traveling
 ## Business Context
 
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+
+## Deployed Application
+![budget-tracker]()
 
 ## Resources
 
